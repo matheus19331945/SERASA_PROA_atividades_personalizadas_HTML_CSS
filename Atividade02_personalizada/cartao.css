@@ -14,7 +14,7 @@ body {
     text-align: center;
     /* Box Model */
     border: 3px solid;
-    padding: 30px; /* preenchimento interno */
+    padding: 30px; /* preenchimento inteerno */
     margin: 20px;
     border-radius: 10px; /* contorno das pontas */
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7); /* Sombra mais sutil */
